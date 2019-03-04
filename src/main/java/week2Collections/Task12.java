@@ -14,14 +14,17 @@ public class Task12 {
             linkedList.add(i);
         }
 
+        System.out.println(linkedList);
+        System.out.println(conversionList(linkedList));
+
     }
 
-    static List<Integer> conList(List<Integer> list){
+    static List<Integer> conversionList(List<Integer> list){
 
         List<Integer> arrayList = new ArrayList<Integer>();
 
         for (int i = 0; i < list.size(); i++) {
-
+            arrayList.add(list.get(i));
         }
 
         return arrayList;
