@@ -1,6 +1,6 @@
-package myTestExtendsTanks;
+package myTestTanksPolygon;
 
-public abstract class Tank {
+public abstract class FightingMachine {
 
     private String name;
     private double speed;
@@ -8,7 +8,7 @@ public abstract class Tank {
     private double attack;
     private int crew;
 
-    public Tank(String name, double speed, double armor, double attack, int crew) {
+    FightingMachine(String name, double speed, double armor, double attack, int crew) {
         this.name = name;
         this.speed = speed;
         this.armor = armor;
@@ -56,10 +56,4 @@ public abstract class Tank {
         this.crew = crew;
     }
 
-    public void attack(Tank tank){
-        if (attack > tank.getArmor()){
-            System.out.println("Пробитие(Breaking through)");
-        } else
-            System.out.println("Не пробил(Not breaking through)");
-    }
 }

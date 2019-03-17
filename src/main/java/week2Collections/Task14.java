@@ -6,7 +6,7 @@ import java.util.Map;
 public class Task14 {
 
     public static void main(String[] args) {
-        String[] arr = new String[]{"Dog" , "Cat", "Car", "123", "Horse"};
+        String[] arr = new String[]{"Dog" , "Cat", "car", "123", "Horse"};
         System.out.println(wordCount(arr));
     }
 
