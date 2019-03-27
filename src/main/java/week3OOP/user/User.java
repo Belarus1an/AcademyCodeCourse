@@ -4,6 +4,7 @@ import java.util.List;
 
 public class User {
 
+    private static int id = 1;
     private String userName;
     private String password;
     private String name;
@@ -51,7 +52,15 @@ public class User {
     public static void getAll(List<User> userList){
 
         for (User value: userList){
-            System.out.println(value.getUserName());
+            System.out.println(value);
+            id++;
         }
+    }
+
+    @Override
+    public String toString() {
+        return "User " + id + " {" +
+                "userName: " + userName +
+                "}";
     }
 }

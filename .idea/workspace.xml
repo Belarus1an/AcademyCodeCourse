@@ -2,48 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b22433-f875-4f64-9c62-bc037b5fd50b" name="Default Changelist" comment="add TestMapSort">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/ITank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/Firma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/Mem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/TastFirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/TestMem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/blok/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/blok/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/books/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/car/TestCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/game/TestGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/produсts/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/produсts/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/produсts/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/user/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/TestPunkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/TestPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Artillery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/FightingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Tank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/FightingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Tank_T3485.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Tank_Tiger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week2Collections/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2Collections/Task14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myTestExtendsTanks/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myTestExtendsTanks/Tank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myTestExtendsTanks/Tank_T3485.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myTestExtendsTanks/Tank_Tiger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2Collections/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2Collections/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/FightingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/ITank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/TestPunkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/TestPunkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myTestTanksPolygon/FightingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myTestTanksPolygon/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myTestTanksPolygon/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myTestTanksPolygon/taksInts/ITank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/employee/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/employee/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/employee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/employee/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/person/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/person/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/person/TestPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/user/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/zadanie10/Punkt2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/zadanie10/Punkt2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/zadanie10/Punkt3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/zadanie10/Punkt3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3OOP/zadanie10/TestPunkt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3OOP/zadanie10/TestPunkt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,11 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/TestPolygon.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,15 +54,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/FightingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+            <state relative-caret-position="320">
+              <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
               <folding>
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#1000#1001#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Tank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+              <folding>
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Artillery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -96,17 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/myTestExtends/Tank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Tank_Tiger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Tank_T3485.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestExtendsTanks/Tank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/ITank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/Tank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3OOP/Osoba.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/Mem.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/Main.java" />
@@ -138,15 +150,26 @@
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/game/TestGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/books/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/books/Library.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week3OOP/user/TestUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week3OOP/product/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week3OOP/product/Guarantee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/user/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3OOP/user/TestUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt2D.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt3D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt2D.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/TestPunkt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/IFightingMachine/ITank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/FightingMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/IFightingMachine/IFightingMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/iFightingMachine/IFightingMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Tank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Artillery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/TestPolygon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/FightingMachine.java" />
       </list>
     </option>
   </component>
@@ -170,8 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,7 +224,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week3OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="myTestTanksPolygon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AkademiaKodu" type="b2602c69:ProjectViewProjectNode" />
@@ -211,8 +232,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week3OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="myTestTanksPolygon" type="462c0819:PsiDirectoryNode" />
+              <item name="fightingMachine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AkademiaKodu" type="b2602c69:ProjectViewProjectNode" />
@@ -224,14 +245,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552831210735" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553195685526" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -249,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Company">
+  <component name="RunManager" selected="Application.TestPolygon">
     <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3OOP.employee.Company" />
       <module name="AkademiaKodu" />
@@ -263,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3OOP.game.TestGame" />
+    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3OOP.person.TestPerson" />
       <module name="AkademiaKodu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3OOP.game.*" />
+          <option name="PATTERN" value="week3OOP.person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3OOP.person.TestPerson" />
+    <configuration name="TestPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTestTanksPolygon.TestPolygon" />
       <module name="AkademiaKodu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3OOP.person.*" />
+          <option name="PATTERN" value="myTestTanksPolygon.fightingMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,19 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestGame" />
       <item itemvalue="Application.Company" />
       <item itemvalue="Application.TestPerson" />
       <item itemvalue="Application.TestUser" />
       <item itemvalue="Application.TestPunkt" />
+      <item itemvalue="Application.TestPolygon" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Company" />
+        <item itemvalue="Application.TestPolygon" />
         <item itemvalue="Application.TestPunkt" />
         <item itemvalue="Application.TestUser" />
         <item itemvalue="Application.TestPerson" />
-        <item itemvalue="Application.TestGame" />
+        <item itemvalue="Application.Company" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +383,10 @@
       <workItem from="1552505758461" duration="1467000" />
       <workItem from="1552590233801" duration="2356000" />
       <workItem from="1552725467944" duration="21072000" />
-      <workItem from="1552812497070" duration="11888000" />
+      <workItem from="1552812497070" duration="19296000" />
+      <workItem from="1553014696679" duration="6870000" />
+      <workItem from="1553102301543" duration="4411000" />
+      <workItem from="1553189880389" duration="5613000" />
     </task>
     <task id="LOCAL-00001" summary="add Task12 and TestMap">
       <created>1551727690945</created>
@@ -432,13 +459,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159925000" />
+    <option name="totallyTimeSpent" value="184227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2048583" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2145749" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,7 +473,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27097902" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.24825175" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39929947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,9 +481,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49959514" weight="0.32867134" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" weight="0.32867134" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.2534965" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2534965" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50121456" side_tool="true" weight="0.30594406" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -479,34 +505,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add TestMapSort" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2Collections/TestMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2TabliceSrednie/MyArrayListMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2TabliceSrednie/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Object.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2Collections/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/week2Collections/Task14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -575,37 +573,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank_Tiger.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank_T3485.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/Tank.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/FightingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/ITank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -824,9 +791,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/books.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/books.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/books/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -850,26 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="63" column="40" lean-forward="true" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/game/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -886,34 +831,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/product/Product.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/product/Guarantee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="89" column="44" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+          <folding>
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/person/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="63" column="46" lean-forward="true" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/person/TestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/user/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
-          <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="233">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/user/TestUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
+        <state relative-caret-position="238">
           <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -923,30 +897,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/TestPunkt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="92" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt3D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="357">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/zadanie10/Punkt2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="371">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
           <folding>
+            <element signature="e#256#257#0" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
@@ -954,27 +928,70 @@
             <element signature="e#386#387#0" expanded="true" />
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/employee/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/taksInts/ITank.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/iFightingMachine/IFightingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Artillery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
           <folding>
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week3OOP/employee/Company.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/TestPolygon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myTestTanksPolygon/fightingMachine/FightingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -30,4 +30,9 @@ public class Punkt2D {
     public void setY(int y) {
         this.y = y;
     }
+
+    @Override
+    public String toString() {
+        return "Punkt2D { " + x + " " + y + " }";
+    }
 }

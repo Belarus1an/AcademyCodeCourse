@@ -10,6 +10,10 @@ public class TestPunkt {
         Punkt3D punkt3D1 = new Punkt3D();
         Punkt3D punkt3D2 = new Punkt3D(5, 5, 5);
 
-        System.out.println(punkt3D1.getX() + " " + punkt3D1.getY() + " " + punkt3D1.getZ());
+        System.out.println(punkt2D1);
+        System.out.println(punkt2D2);
+
+        System.out.println(punkt3D1);
+        System.out.println(punkt3D2);
     }
 }

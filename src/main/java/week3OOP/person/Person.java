@@ -53,7 +53,7 @@ public class Person {
     public static void  getAllPeople(List<Person> personList){
 
         for (Person value: personList){
-            System.out.println(value.toString());
+            System.out.println(value);
         }
     }
 
@@ -61,7 +61,6 @@ public class Person {
     public String toString() {
         return "Person{" +
                 "name: " + name +
-                ", surname: " + surname+
-                '}';
+                ", surname: " + surname + '}';
     }
 }

@@ -11,6 +11,10 @@ public class Company {
         Employee pracownik2 = new Employee("Bob", "Dukket" , 1989, 5, 2500);
         Employee pracownik3 = new Employee("Tom", "Bread" , 1990, 2, 4500);
 
+        pracownik1.setCompany("Astra");
+        pracownik2.setCompany("Signum");
+        pracownik3.setCompany("Konsberg");
+
         List<Employee> employeeList = new ArrayList<>();
         employeeList.add(pracownik1);
         employeeList.add(pracownik2);

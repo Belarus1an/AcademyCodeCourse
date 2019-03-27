@@ -9,10 +9,13 @@ public class Employee {
     private int age;
     private int experience;
     private int salary;
+    private String company;
 
-    public Employee(String name, String suname, int age, int experience) {
+
+
+    public Employee(String name, String surname, int age, int experience) {
         this.name = name;
-        this.surname = suname;
+        this.surname = surname;
         this.age = age;
         this.experience = experience;
     }
@@ -23,6 +26,14 @@ public class Employee {
         this.age = age;
         this.experience = experience;
         this.salary = salary;
+    }
+
+    public String getCompany() {
+        return company;
+    }
+
+    public void setCompany(String company) {
+        this.company = company;
     }
 
     public int getSalary() {
@@ -69,16 +80,18 @@ public class Employee {
 
         for (Employee value: employeeList){
             System.out.println(value.getName() + " " + value.getSurname()
-                    + " " + value.getAge() + " " + value.getExperience() + " " + value.getSalary());
+                    + " " + value.getAge() + " " + value.getExperience()
+                    + " " + value.getSalary() + " | " + value.getCompany());
         }
     }
 
     public static void sumSalary(List<Employee> employeeList){
 
+        System.out.println("----------------");
         int sumSalary = 0;
         for (Employee value: employeeList){
             sumSalary += value.getSalary();
         }
-        System.out.println(sumSalary);
+        System.out.println("SumSalary: " + sumSalary);
     }
 }
